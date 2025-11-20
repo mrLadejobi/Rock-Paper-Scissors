@@ -26,16 +26,3 @@ print(response)
 
 answer = addition(202020, 303030)
 print(answer)
-
-
-fruits = ['apple', 'banana', 'oranges', 'watermelon', 'coconut', 'pawpaw', 'lemon', 'pineapple']
-
-for fruit in fruits:
-    print(fruit)
-
-number = 1
-for numbers in range (0, 200):
-    while numbers >= 0:
-        number += 1
-        print(number)
-
